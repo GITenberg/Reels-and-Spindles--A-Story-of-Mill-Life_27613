@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '31472'
     url: http://www.gutenberg.org/2009/agents/31472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27613#Reels-and-Spindles--A-Story-of-Mill-Life
 gutenberg_issued: '2008-12-25'
 gutenberg_type: Text
 identifiers:
